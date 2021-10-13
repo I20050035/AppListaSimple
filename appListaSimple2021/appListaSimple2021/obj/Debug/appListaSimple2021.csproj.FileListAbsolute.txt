@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\appListaSimple2021\appListaSimple2021\bin\Debug\appListaSimple2021.exe.config
+C:\Users\Usuario\source\repos\appListaSimple2021\appListaSimple2021\bin\Debug\appListaSimple2021.exe
+C:\Users\Usuario\source\repos\appListaSimple2021\appListaSimple2021\bin\Debug\appListaSimple2021.pdb
+C:\Users\Usuario\source\repos\appListaSimple2021\appListaSimple2021\obj\Debug\appListaSimple2021.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\appListaSimple2021\appListaSimple2021\obj\Debug\appListaSimple2021.Properties.Resources.resources
+C:\Users\Usuario\source\repos\appListaSimple2021\appListaSimple2021\obj\Debug\appListaSimple2021.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\appListaSimple2021\appListaSimple2021\obj\Debug\appListaSimple2021.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\appListaSimple2021\appListaSimple2021\obj\Debug\appListaSimple2021.exe
+C:\Users\Usuario\source\repos\appListaSimple2021\appListaSimple2021\obj\Debug\appListaSimple2021.pdb
+C:\Users\Usuario\source\repos\appListaSimple2021\appListaSimple2021\obj\Debug\appListaSimple2021.Form1.resources
